@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131870433085",
+    "project_id": "fir-37c1b",
+    "storage_bucket": "fir-37c1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131870433085:android:71f39d4945a51804606f54",
+        "android_client_info": {
+          "package_name": "com.example.wadayak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikEZ1GrQVnj7n9JgYHriPh9Urp8ly4MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
